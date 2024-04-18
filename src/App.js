@@ -6,7 +6,7 @@ import Card from './Card';
 
 // Iteration 2 - Make form fetch happen, so when an appointment is submitted and POSTed, the page updates without refresh
 
-// Iteration 3 - Make cypress testing happen for initial page display: be sure to check for all dynamic data points of first and last card
+// Iteration 3 - Make cypress testing happen for initial page display: be sure to check for all dynamic data points of first and last card, as well as interactable elements of the page i.e. form fields
 
 // Iteration 4 - Cypress testing for POST - use cypress to fill out the form and submit a new POST request (remember - all network requests much be intercepted!) Validate how the page changes with cypress
 
