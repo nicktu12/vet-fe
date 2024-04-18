@@ -1,9 +1,11 @@
-Vet-FE
+**Vet-FE**
 
 Backend - https://github.com/turingschool-examples/react-practice-servers/tree/main/vet-appts
 
-Getting started
+**Getting started**
+
 `npm install`
+
 `npm start`
 
-Iterations in App.js
+*Complete Iterations 1-4 in App.js*
